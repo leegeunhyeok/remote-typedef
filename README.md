@@ -5,7 +5,7 @@ Get type definitions from GitHub
 ## Usage
 
 ```bash
-https://gitpkg.now.sh/leegeunhyeok/remote-typedef/packages/bridge?main
+yarn add https://gitpkg.now.sh/leegeunhyeok/remote-typedef/packages/bridge?main
 ```
 
 ```ts
